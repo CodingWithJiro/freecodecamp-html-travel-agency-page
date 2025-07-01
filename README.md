@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/701bb8c9-1250-4605-b732-bb41ea086c9d/deploy-status)](https://travel-agency-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-travel-agency-page&left_text=repo%20views)
 
 ## ℹ️ A Simple Travel Agency Landing Page
 
