@@ -1,4 +1,4 @@
-# 💻 Travel Agency
+# Travel Agency
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
@@ -15,21 +15,21 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-travel-agency-page&left_text=repo%20views)
 
-## ℹ️ A Simple Travel Agency Landing Page
+## A Simple Travel Agency Landing Page
 
 ![Screenshot of the project](./screenshot.png)
 
-A **HTML-only landing page** for a fictional travel agency promoting tourism in the Philippines packed with destination highlights, clickable image links, and informative content designed to simulate a lightweight travel brochure-style website. Created as part of the [freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/) HTML5 free course.
+A **HTML-only landing page** for a fictional travel agency promoting tourism in the Philippines packed with destination highlights, clickable image links, and informative content designed to simulate a lightweight travel brochure-style website. Created as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** HTML5 free course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This landing page showcases the Philippines as a top travel destination. From the iconic beaches of **Boracay** to the stunning **Mayon Volcano** and **Siargao's coconut roads**, the page invites users to explore via linked images and clear descriptions.
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic HTML structure using `<header>`, `<main>`, `<article>`, `<figure>`, and `<footer>`
 - Image-based navigation to key tourist destinations
@@ -39,7 +39,7 @@ This landing page showcases the Philippines as a top travel destination. From th
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Structuring content semantically without relying on CSS or JavaScript
 - Making static HTML engaging using figures and links
@@ -48,7 +48,7 @@ This landing page showcases the Philippines as a top travel destination. From th
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - Git
@@ -57,23 +57,23 @@ This landing page showcases the Philippines as a top travel destination. From th
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://travel-agency-page-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://travel-agency-page-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
